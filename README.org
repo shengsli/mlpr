@@ -1,0 +1,4 @@
+#+title: MLPR assignments
+#+author: 
+#+date: 
+- https://www.inf.ed.ac.uk/teaching/courses/mlpr
